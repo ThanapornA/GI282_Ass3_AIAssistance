@@ -1,0 +1,13 @@
+{
+    "asset": "68e1a0692ba1f5e4d9d05a9ada91816f",
+    "fileName": "01993736-ca3f-7fd9-ac16-1afa597ea8cd.wav",
+    "prompt": "action background music , can loop",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "2d765733a878cd5f90f4343f3c78d35d",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

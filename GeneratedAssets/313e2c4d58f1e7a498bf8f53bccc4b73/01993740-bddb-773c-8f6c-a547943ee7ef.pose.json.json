@@ -1,0 +1,11 @@
+{
+    "asset": "313e2c4d58f1e7a498bf8f53bccc4b73",
+    "fileName": "01993740-bddb-773c-8f6c-a547943ee7ef.pose.json",
+    "prompt": "dead , lose animation",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 195243048,
+    "w3CTraceId": "0e4ed6ca45764511d738428d6bfff600",
+    "isTrimmed": false
+}
